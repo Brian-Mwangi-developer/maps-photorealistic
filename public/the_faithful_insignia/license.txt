@@ -1,0 +1,11 @@
+Model Information:
+* title:	The Faithful Insignia
+* source:	https://sketchfab.com/3d-models/the-faithful-insignia-3bfdab46ec8f48698095e25176a58801
+* author:	LDigital (https://sketchfab.com/ldigital)
+
+Model License:
+* license type:	CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
+* requirements:	Author must be credited. Modified versions must have the same license. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "The Faithful Insignia" (https://sketchfab.com/3d-models/the-faithful-insignia-3bfdab46ec8f48698095e25176a58801) by LDigital (https://sketchfab.com/ldigital) licensed under CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
